@@ -1,15 +1,15 @@
-# 🔐 Password Generator in Python
+# Password Generator in Python
 
 Welcome to the **Password Generator** — a simple Python project that creates strong and random passwords based on your input. Perfect for beginners to understand the use of lists, loops, and the `random` module!
 
-# 🧠 Features
+# Features
 
 - Choose how many **letters**, **numbers**, and **symbols** you want
 - Combines all characters and shuffles them to ensure randomness
 - Easy-to-use input prompts
 - Clean and beginner-friendly Python code
 
-# 📌 How It Works
+# How It Works
 
 1. You input how many letters, numbers, and symbols you want in your password.
 2. The program randomly selects those characters from predefined lists.
@@ -18,7 +18,7 @@ Welcome to the **Password Generator** — a simple Python project that creates s
 
 
 
-# 📋 Sample Output
+# Sample Output
 
 Welcome to password generator....
 
