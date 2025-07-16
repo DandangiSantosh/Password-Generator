@@ -20,14 +20,5 @@ Welcome to the **Password Generator** — a simple Python project that creates s
 
 # Sample Output
 
-Welcome to password generator....
+<img width="538" height="324" alt="image" src="https://github.com/user-attachments/assets/83e9a886-cb60-43da-bb87-4fb9f1adf7ce" />
 
-Enter number of letters you want in password: 
-5
-Enter number of numbers you want in password: 
-3
-Enter number of symbols you want in password: 
-2
-
-Generated Password: 
-aB7@fG1)d
